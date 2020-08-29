@@ -14,5 +14,5 @@ We use these tools:
 4. [Creating Procedures for Single Rows](https://www.youtube.com/watch?v=EDMI0VyoPYY&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=6&t=0s)
 5. [Creating Procedures for Result Sets](https://www.youtube.com/watch?v=IKpq0GC3Z-c&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=7&t=0s)
 6. [Calling Programs from SQL](https://www.youtube.com/watch?v=BrXQgRBcalY&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=8&t=0s)
-  * Little bug in this one. Will update here when resolved.
+   * Little bug in this one. Will update here when resolved.
 7. [Converting SQL programs to UDTF](https://www.youtube.com/watch?v=bP9ueziP0Ws&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=9&t=0s)
