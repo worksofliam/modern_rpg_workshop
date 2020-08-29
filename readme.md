@@ -1,5 +1,7 @@
 This workshop will teach you some basics of writing modern RPG. Of course, take it with a hint of salt. This is how I think modern RPG should be written.
 
+[Intro video here](https://www.youtube.com/watch?v=Ginbl7doIgY&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=2&t=0s)
+
 We use these tools:
 
 * https://ileditor.dev/ - My IDE of choice. You can use any you want (RDi, ILEditor, SEU, etc)
@@ -8,7 +10,7 @@ We use these tools:
 
 ## Videos
 
-1. [Intro](https://www.youtube.com/watch?v=Ginbl7doIgY&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=2&t=0s)
+1. [Templates and Procedures](https://www.youtube.com/watch?v=Ok5Lc8XuIa8&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=2)
 2. [Modules, Programs and Service Programs](https://www.youtube.com/watch?v=NMf7VZ-8lTk&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=4&t=0s)
 3. [Writing Safe Embedded SQL](https://www.youtube.com/watch?v=wBDGiEWcW2Y&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=5&t=0s)
 4. [Creating Procedures for Single Rows](https://www.youtube.com/watch?v=EDMI0VyoPYY&list=PLNl31cqBafCrvYU3mSA0d8kSgRkvlrn-P&index=6&t=0s)
